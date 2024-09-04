@@ -1,0 +1,11 @@
+﻿  parallel_1.cpp
+  parallel_2.cpp
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(17,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(11,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(11,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(8,5): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(8,5): warning C4101: i: неиспользованная локальная переменная
+C:\Users\kondr\Лабы\5 сем\parallel\parallel_2.cpp(8,5): warning C4101: j: неиспользованная локальная переменная
+  test.cpp
+  Создание кода...
+  parallel.vcxproj -> C:\Users\kondr\Лабы\5 сем\parallel\x64\Debug\parallel.exe
